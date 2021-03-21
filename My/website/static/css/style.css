@@ -1,0 +1,75 @@
+nav.my-2 {
+    margin-left: 1400px;
+}
+
+a.btn-primary{
+    margin-left: 240px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+a.btn-secondary{
+    margin-left: 45px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+h1.fw-light{
+    margin-left: 275px;
+}
+
+p.lead{
+    margin-left: 145px;
+}
+
+
+
+h4.my-0{
+    margin-left: 815px;
+}
+
+
+h5.h1{
+    margin-right: 400px;
+}
+
+ul.list-unstyled{
+    margin-right: 200px;
+}
+
+div.form-group{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+ul.list-unstyled{
+    padding-left: 700px;
+}
+
+footer.pt-4{
+    margin-left: -3000px;
+}
+
+a.btn{
+    margin-left: 60px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+}
+
+button.btn{
+    margin-left: 400px;
+}
+
+div.card{
+    margin-right: 200px;
+    margin-left: 50px;
+}
+
+h4.my-0{
+    margin-left: 700px;
+}
